@@ -4,7 +4,7 @@ import pylab as pl
 import numpy as np
 
 #loading dataset
-df=pd.read_csv('E:\\datascience\\ed_x\\ed_x_project_and_lab\\csv\\FuelConsumptionCo2.csv')
+df=pd.read_csv('FuelConsumptionCo2.csv')
 df.head()
 
 #summerizing the data
