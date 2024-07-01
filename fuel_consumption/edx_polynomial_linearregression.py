@@ -4,7 +4,7 @@ import pylab as pl
 import matplotlib.pyplot as plt
 
 #loading dataset
-df=pd.read_csv('E:\\datascience\\ed_x\\ed_x_project_and_lab\\csv\\FuelConsumptionCo2_2.csv')
+df=pd.read_csv('FuelConsumptionCo2_2.csv')
 df.head()
 
 #selecting features
